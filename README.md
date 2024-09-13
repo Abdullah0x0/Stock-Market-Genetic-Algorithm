@@ -54,12 +54,3 @@ For optimal performance, consider starting with the following settings:
 - `Z_Percent`: 5
 
 Adjust these parameters based on your dataset and analysis needs.
-
-## Contributing
-
-Feel free to fork this repository and submit pull requests to contribute to the development of this Genetic Algorithm for financial data analysis. Whether it's adding new features, improving the algorithm, or fixing bugs, your contributions are welcome!
-
-## License
-
-This project is open-source and available under the [MIT License](https://opensource.org/licenses/MIT).
-
